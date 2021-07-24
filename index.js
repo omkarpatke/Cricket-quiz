@@ -16,6 +16,7 @@ var highScore = [
 
 
 
+
 var questions = [{
   question: " \n1. Who is the popular known as Master Blaster?\n   a. Sachin Tendulkar \n   b. Ravindra Jadeja \n   c. Virat Kohli \n   d. Rohit Sharma \n ",
   answer: "a"
